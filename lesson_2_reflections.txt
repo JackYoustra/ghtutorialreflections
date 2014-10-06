@@ -8,3 +8,6 @@ Well... just changed a real file and its repository thing!!!
 I think I'm getting the hang of this!
 Soo... The staging area is integral in making one commit per logical change because you can pick which files are in. 
 For instance, a "Fixed AVFoundation" error shouldn't be in the same commit as a "Also fixed video ui playback" change (not saying that that is good grammar)
+
+Branches would help when there's an experimental change.
+Also, some nice organizational history b/c you don't want that mess of commits that you had to work through before ;)
