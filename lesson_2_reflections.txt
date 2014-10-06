@@ -1,0 +1,3 @@
+When I init a repository, the bkgrnd files are probably created. (As well as a lot of background shenanigans)
+
+I need it because I don't think that creation will be automatic

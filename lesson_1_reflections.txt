@@ -1,0 +1,28 @@
+so...
+This is my first foray into vim as well as git...
+I think I may be able to do something with this.
+It seems useful as an editor, and git seems useful as a comparator
+I didn't know windows was that useful either
+must be like unix
+Can't wait for github!
+
+As for the stated question... looking at the diff can highlight what went wrong (would've been helpful with video wizard ;) )
+
+New question, starting to get ridiculous...
+Having the entire history of the file can allow you to roll back to any point in time, allowing to branch amoung other things
+
+Next question (joy)
+Google Docs tracks each file seperately because none of them are intrinsically related. However...
+Git should, because code is intrinsicaly related. There is a DEFINITE tie between .h and .m/.c/.cpp files
+
+Git log can be used to get all revisions, git diff can be used to get the difference between the two.
+
+Our "dear comrade" asked me to answer "how might using version control make you more confident to make changes that could break something"
+...
+Right.
+OMG. There is no compairison. This happens ALL THE TIME!!! All of it. ESPECIALLY on Obj-C code that just looks bats**t crazy.
+</rant>
+
+I want to try to use git for all of my coding stuff. esp. java and objc.
+
+- Jack
