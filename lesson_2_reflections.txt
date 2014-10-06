@@ -1,3 +1,5 @@
 When I init a repository, the bkgrnd files are probably created. (As well as a lot of background shenanigans)
 
 I need it because I don't think that creation will be automatic
+
+Staging area is an intermediate place where you can place files that you will want to commit. Useful for selective commiting (such as huge changes in one file with just basic stuff in another)
