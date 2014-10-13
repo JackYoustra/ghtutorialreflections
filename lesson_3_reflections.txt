@@ -1,0 +1,3 @@
+Ok, remote repos are awesome. 
+There are TOO MANY TIMES that I don't have the computer I'm working on and I want to show someone my code.
+This could be prevented by remote repos, esp. considering that I'm migrating away from large IDEs and can just use these txt editors.
