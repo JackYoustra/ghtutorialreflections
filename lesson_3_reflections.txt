@@ -10,3 +10,6 @@ Branches are just splitting a path in one repo.
 
 Last known state of the remote stored locally is nice because internet is not always around.
 If you are in the forest, it would be a lot nicer to just have them on the hdd than have to configure an uplink.
+
+Well, collaboration could be done using google docs.
+I personally think that that would be better for me at this stage, but it'll probably evolve to be worse, as the version controlling is a lot less powerful.
