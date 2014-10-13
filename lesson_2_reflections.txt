@@ -11,3 +11,15 @@ For instance, a "Fixed AVFoundation" error shouldn't be in the same commit as a 
 
 Branches would help when there's an experimental change.
 Also, some nice organizational history b/c you don't want that mess of commits that you had to work through before ;)
+
+Diagrams help visualize the branch structure because git doesn't have a GUI (that we've seen (yet...))
+
+Merging two branches together kinda "mashes" the two parts into one.
+We represent it in the diagram because it has to do with all version control systems and is a git command.
+
+Automatic merging is nice b/c 
+  1) I can't mess it up
+  2) It's a lot quicker
+Manual merging is nice b/c
+  1) You have full control
+  2) It forces you to know what you're doing
