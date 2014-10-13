@@ -13,3 +13,6 @@ If you are in the forest, it would be a lot nicer to just have them on the hdd t
 
 Well, collaboration could be done using google docs.
 I personally think that that would be better for me at this stage, but it'll probably evolve to be worse, as the version controlling is a lot less powerful.
+
+Changes in a separate braqnch help when you want do do one thing without affecting a lot of other stuff.
+However, incorporating it with master allows for a logical flow of the product, if the changes aren't too unrelated.
