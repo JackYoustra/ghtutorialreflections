@@ -3,3 +3,7 @@ There are TOO MANY TIMES that I don't have the computer I'm working on and I wan
 This could be prevented by remote repos, esp. considering that I'm migrating away from large IDEs and can just use these txt editors.
 
 Pulling changes manually prevents interruptions in the middle of large revisions, preventing annoying breaking code.
+
+Forks are a github thing. They basically make a one-time copy of one's repo.
+Clones are like forking, but between github and the computer or the computer and the computer. Forks are github and github.
+Branches are just splitting a path in one repo.
